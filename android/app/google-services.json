@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "636770305401",
+    "project_id": "eco-store-665e0",
+    "storage_bucket": "eco-store-665e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636770305401:android:4e6074fa989fc852931ba8",
+        "android_client_info": {
+          "package_name": "com.mughaltechlab.eco_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636770305401-btfre474g4ie7dccd309hi2t4e55bfdt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdJjfKF4zGuFc30EO0rkUGaIOvYI_pc2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636770305401-btfre474g4ie7dccd309hi2t4e55bfdt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
